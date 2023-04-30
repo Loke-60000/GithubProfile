@@ -2,7 +2,7 @@
 
 **`Web Developper`**
 
-https://custom-icon-badges.demolab.com/badge/-Lokman-red?style=for-the-badge&logo=mention&logoColor=white
+[![Lokman.fr](https://img.shields.io/badge/Lokman.fr-Custom_Color?style=for-the-badge)](https://lokman.fr)
 
 I'm a 21-year-old web developer who's passionate about tech and art.
 
