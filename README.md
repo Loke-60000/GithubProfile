@@ -2,7 +2,11 @@
 
 **`Web Developper`**
 
-**`Lokman.fr`**
+<p align="left">
+   <a href="https://lokman.fr">
+      <img alt="My website" title="My website" src="https://custom-icon-badges.demolab.com/badge/-Uses_Shields.io-000000?style=for-the-badge&logo=shieldsiobadge&logoColor=7769cd"/>
+   </a>
+</p>
 
 I'm a 21-year-old web developer who's passionate about tech and art.
 
