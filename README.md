@@ -2,7 +2,7 @@
 
 **`Web Developper`**
 
-[![Lokman.fr](https://img.shields.io/badge/Lokman.fr-Custom_Color?style=for-the-badge)](https://lokman.fr)
+[![Lokman.fr](https://img.shields.io/badge/Lokman.fr-c63b35?style=for-the-badge)](https://lokman.fr)
 
 I'm a 21-year-old web developer who's passionate about tech and art.
 
