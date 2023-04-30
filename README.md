@@ -2,6 +2,8 @@
 
 **`Web Developper`**
 
+**`Lokman.fr`**
+
 I'm a 21-year-old web developer who's passionate about tech and art.
 
    <p align="left">
@@ -33,8 +35,6 @@ I'm a 21-year-old web developer who's passionate about tech and art.
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <br />
-
-#
 
 #
 
