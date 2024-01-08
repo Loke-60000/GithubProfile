@@ -4,7 +4,7 @@
 
 [![Lokman.fr](https://img.shields.io/badge/Lokman.fr-c63b35?style=for-the-badge)](https://lokman.fr)
 
-I'm a 21-year-old web developer who's passionate about tech and art.
+I'm a 22-year-old web developer who's passionate about tech and art.
 
    <p align="left">
       <a href="https://github.com/Loke-60000?tab=followers">
