@@ -48,7 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Loke-60000&show_icons=true&theme=gruvbox" />
   <br>
   <a href="https://github.com/Loke-60000/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loke-60000&hide=html,css,scss,tex&theme=gruvbox" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loke-60000&hide=html,css,scss,tex&theme=gruvbox&layout=donut" />
   </a>
 </div>
 
