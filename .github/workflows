@@ -1,0 +1,39 @@
+name: Update Age
+
+on:
+  schedule:
+    # This schedules the workflow to run daily
+    - cron: '0 0 * * *'
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      
+    - name: Update age in README.md
+      run: |
+        # Calculate current age based on birthdate
+        DOB="2001-11-21"
+        CURRENT_DATE=$(date +%Y-%m-%d)
+        YEAR_DIFF=$(($(date -d $CURRENT_DATE +%Y) - $(date -d $DOB +%Y)))
+        BIRTHDAY_THIS_YEAR=$(date -d "$DOB" +%Y)-$(date -d $CURRENT_DATE +%m-%d)
+        
+        if [[ "$BIRTHDAY_THIS_YEAR" > "$CURRENT_DATE" ]]; then
+          AGE=$(($YEAR_DIFF - 1))
+        else
+          AGE=$YEAR_DIFF
+        fi
+        
+        # Update README.md with the new age
+        sed -i "s/I'm a [0-9]\+-year-old developer./I'm a $AGE-year-old developer./" README.md
+      
+    - name: Commit and push if changed
+      run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
+        git add README.md
+        git commit -m "Automatically update age" -a || exit 0 # exit gracefully if no changes
+        git push
