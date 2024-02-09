@@ -7,16 +7,17 @@ I'm a 22-year-old web developer.
 
 ---
 
-[![Lokman.fr](https://img.shields.io/badge/Lokman.fr-c63b35?style=for-the-badge)](https://lokman.fr)
-
----
-
-   <p align="left">
-      <a href="https://github.com/Loke-60000?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Loke-60000?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Loke-60000?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Loke-60000?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+<p align="left">
+   <a href="https://github.com/Loke-60000?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Loke-60000?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+   </a>
+   <a href="https://github.com/Loke-60000?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Loke-60000?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+   </a>
+   <a href="https://lokman.fr">
+      <img alt="Lokman.fr" src="https://img.shields.io/badge/Lokman.fr-c63b35?style=for-the-badge"/>
+   </a>
+</p>
 
 
 ---
