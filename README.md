@@ -49,7 +49,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=Loke-60000&show_icons=true&theme=gruvbox" />
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loke-60000&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loke-60000&layout=donut-vertical&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Loke-60000&theme=gruvbox&border_radius=4.5) -->
