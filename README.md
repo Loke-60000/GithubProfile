@@ -2,8 +2,8 @@
 ### I'm a 22-year-old developer.
 ---
 
-**`AI & Data Developper`**
-**`Web Developper`**
+**`AI & Data Developer`**
+**`Web Developer`**
 
 ---
 
