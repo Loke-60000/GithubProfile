@@ -1,5 +1,5 @@
 # Lokman
-I'm a 22-year-old web developer.
+I'm a 22-year-old developer.
 ---
 
 **`AI & Data Developper`**
