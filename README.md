@@ -37,7 +37,9 @@ I'm a 22-year-old web developer.
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loke-60000&show_icons=true&theme=gruvbox)
+<div align="center">
+   ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loke-60000&show_icons=true&theme=gruvbox)
+</div>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Loke-60000&theme=gruvbox&border_radius=4.5) -->
 
