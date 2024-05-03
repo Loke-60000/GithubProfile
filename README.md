@@ -2,8 +2,7 @@
 ### I'm a 22-year-old developer.
 ---
 
-**`AI & Data Developer`**
-**`Web Developer`**
+**`Web Developer`** | **`AI & Data Developer`**
 
 ---
 
@@ -19,25 +18,41 @@
    </a>
 </p>
 
-
 ---
 
 ### 🧰 Languages and Tools
 
+#### Web Development
 <p align="center">
-   <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-   <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-   <img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-   <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-   <img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-   <img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-   <img alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-   <img alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-   <img alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-   <img alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+   <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30" style="padding-right:10px;" />
+   <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="30" style="padding-right:10px;" />
+   <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30" style="padding-right:10px;" />
+   <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" style="padding-right:10px;" />
+   <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" style="padding-right:10px;" />
+   <img alt="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30" style="padding-right:10px;" />
+   <img alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="30" style="padding-right:10px;" />
+   <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" style="padding-right:10px;" />
 </p>
-<br />
 
+#### AI & Data Development
+<p align="center">
+   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="30" style="padding-right:10px;" />
+   <img alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" style="padding-right:10px;" />
+   <img alt="Keras" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="30" style="padding-right:10px;" />
+   <img alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30" style="padding-right:10px;" />
+   <img alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" style="padding-right:10px;" />
+   <img alt="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" style="padding-right:10px;" />
+</p>
+
+#### Software & Tools
+<p align="center">
+   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" style="padding-right:10px;" />
+   <img alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" style="padding-right:10px;" />
+   <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" style="padding-right:10px;" />
+   <img alt="Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30" style="padding-right:10px;" />
+</p>
+
+<br />
 
 ---
 
@@ -47,11 +62,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Loke-60000&show_icons=true&theme=gruvbox" />
   <br>
   <a href="https://github.com/Loke-60000/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loke-60000&hide=html,css,scss,shell,tex&theme=gruvbox&layout=donut" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loke-60000&exclude_repo=github-readme-stats,Loke-60000.github.io&theme=gruvbox&layout=compact" />
   </a>
 </div>
-
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Loke-60000&theme=gruvbox&border_radius=4.5) -->
-
-#
