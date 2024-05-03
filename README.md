@@ -7,8 +7,9 @@
 ---
 <h2 align='center'>AZ 900</h2>
 <p align="center">
-   <img alt="az900" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30" style="padding-right:10px;" />
+   <img alt="az900" src="https://github.com/Loke-60000/Loke-60000/blob/6fe9aa493af089cc6ec563567ccf3bdea26d231c/assets/microsoft-certified-fundamentals-badge.svg" width="30" style="padding-right:10px;" />
 </p>
+
 ---
 
 <p align="center">
