@@ -50,6 +50,7 @@
 
 <p align="center">
    <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="30" style="padding-right:10px;" />
+   <img alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="30" style="padding-right:10px;" />
    <img alt="Postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="30" style="padding-right:10px;" />
    <img alt="SQLITE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" style="padding-right:10px;" />
 
