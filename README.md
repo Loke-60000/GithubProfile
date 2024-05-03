@@ -30,7 +30,7 @@
    <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" style="padding-right:10px;" />
    <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" style="padding-right:10px;" />
    <img alt="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30" style="padding-right:10px;" />
-   <img alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="30" style="padding-right:10px;" />
+   <img alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" style="padding-right:10px;" />
    <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" style="padding-right:10px;" />
 </p>
 
@@ -62,6 +62,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Loke-60000&show_icons=true&theme=gruvbox" />
   <br>
   <a href="https://github.com/Loke-60000/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loke-60000&exclude_repo=github-readme-stats,Loke-60000.github.io&theme=gruvbox&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loke-60000&hide=html,css,scss,shell,tex&theme=gruvbox&layout=donut" />
   </a>
 </div>
