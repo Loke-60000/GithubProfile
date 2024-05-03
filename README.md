@@ -20,10 +20,10 @@
 
 ---
 
-### 🧰 Languages and Tools
+<h2 align='center'>🧰 Languages and Tools</h2>
 
-#### Web Development
-<h1 align='center'>Web Development</h1>
+<h3 align='center'>Web Development</h3>
+
 <p align="center">
    <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30" style="padding-right:10px;" />
    <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="30" style="padding-right:10px;" />
@@ -37,7 +37,8 @@
    <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" style="padding-right:10px;" />
 </p>
 
-#### AI & Data Development
+<h3 align='center'>AI & Data Development</h3>
+
 <p align="center">
    <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="30" style="padding-right:10px;" />
    <img alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" style="padding-right:10px;" />
@@ -47,7 +48,7 @@
    <img alt="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" style="padding-right:10px;" />
 </p>
 
-#### Databases
+<h3 align='center'>Databases</h3>
 
 <p align="center">
    <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="30" style="padding-right:10px;" />
@@ -57,7 +58,8 @@
 
 </p>
 
-#### Software & Tools
+<h3 align='center'>Software & Tools</h3>
+
 <p align="center">
    <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" style="padding-right:10px;" />
    <img alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" style="padding-right:10px;" />
@@ -70,7 +72,8 @@
 
 ---
 
-### 📊 Stats
+<h3 align='center'>📊 Stats</h3>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Loke-60000&show_icons=true&theme=gruvbox" />
