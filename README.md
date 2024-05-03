@@ -5,6 +5,11 @@
 **`Web Developer`** | **`AI & Data Developer`**
 
 ---
+<h2 align='center'>AZ 900</h2>
+<p align="center">
+   <img alt="AZ 900 certified" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg](https://learn.microsoft.com/fr-fr/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg)" width="30" style="padding-right:10px;" />
+</p>
+---
 
 <p align="center">
    <a href="https://lokman.fr">
