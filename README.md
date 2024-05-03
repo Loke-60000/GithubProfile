@@ -5,13 +5,6 @@
 **`Web Developer`** | **`AI & Data Developer`**
 
 ---
-<h2 align='center'>AZ 900</h2>
-<p align="center">
-   <img alt="az900" src="https://github.com/Loke-60000/Loke-60000/blob/6fe9aa493af089cc6ec563567ccf3bdea26d231c/assets/microsoft-certified-fundamentals-badge.svg" width="100" style="padding-right:10px;" />
-</p>
-
----
-
 <p align="center">
    <a href="https://lokman.fr">
       <img alt="Lokman.fr" src="https://img.shields.io/badge/Lokman.fr-c63b35?style=for-the-badge"/>
@@ -22,6 +15,12 @@
    <a href="https://github.com/Loke-60000?tab=repositories&sort=stargazers">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Loke-60000?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
    </a>
+</p>
+---
+
+<h2 align='center'>AZ 900</h2>
+<p align="center">
+   <img alt="az900" src="https://github.com/Loke-60000/Loke-60000/blob/6fe9aa493af089cc6ec563567ccf3bdea26d231c/assets/microsoft-certified-fundamentals-badge.svg" width="100" style="padding-right:10px;" />
 </p>
 
 ---
