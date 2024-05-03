@@ -24,6 +24,7 @@
 
 #### Web Development
 <p align="center">
+   <h1>Web Development</h1>
    <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30" style="padding-right:10px;" />
    <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="30" style="padding-right:10px;" />
    <img alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30" style="padding-right:10px;" />
