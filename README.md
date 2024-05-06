@@ -41,33 +41,33 @@
 <h3 align='center'>AI & Data Development</h3>
 
 <p align="center">
-   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="30" style="padding-right:10px;" />
-   <img alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" style="padding-right:10px;" />
-   <img alt="Keras" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="30" style="padding-right:10px;" />
-   <img alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30" style="padding-right:10px;" />
-   <img alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" style="padding-right:10px;" />
-   <img alt="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" style="padding-right:10px;" />
+   <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="30" style="padding-right:10px;" /></a>
+   <a href="https://www.tensorflow.org/" target="_blank"><img alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" style="padding-right:10px;" /></a>
+   <a href="https://keras.io/" target="_blank"><img alt="Keras" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="30" style="padding-right:10px;" /></a>
+   <a href="https://pytorch.org/" target="_blank"><img alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30" style="padding-right:10px;" /></a>
+   <a href="https://pandas.pydata.org/" target="_blank"><img alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" style="padding-right:10px;" /></a>
+   <a href="https://numpy.org/" target="_blank"><img alt="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" style="padding-right:10px;" /></a>
 </p>
+
 
 <h3 align='center'>Databases</h3>
 
 <p align="center">
-   <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="30" style="padding-right:10px;" />
-   <img alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="30" style="padding-right:10px;" />
-   <img alt="Postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="30" style="padding-right:10px;" />
-   <img alt="SQLITE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" style="padding-right:10px;" />
-
+   <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="30" style="padding-right:10px;" /></a>
+   <a href="https://firebase.google.com/" target="_blank"><img alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="30" style="padding-right:10px;" /></a>
+   <a href="https://www.postgresql.org/" target="_blank"><img alt="Postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="30" style="padding-right:10px;" /></a>
+   <a href="https://www.sqlite.org/" target="_blank"><img alt="SQLITE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" style="padding-right:10px;" /></a>
 </p>
 
 <h3 align='center'>Software & Tools</h3>
 
 <p align="center">
-   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" style="padding-right:10px;" />
-   <img alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" style="padding-right:10px;" />
-   <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" style="padding-right:10px;" />
-   <img alt="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="30" style="padding-right:10px;" />
-   <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" style="padding-right:10px;" />
-   <img alt="Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30" style="padding-right:10px;" />
+   <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" style="padding-right:10px;" /></a>
+   <a href="https://nodejs.org/" target="_blank"><img alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" style="padding-right:10px;" /></a>
+   <a href="https://www.linux.org/" target="_blank"><img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" style="padding-right:10px;" /></a>
+   <a href="https://jupyter.org/" target="_blank"><img alt="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="30" style="padding-right:10px;" /></a>
+   <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" style="padding-right:10px;" /></a>
+   <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img alt="Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30" style="padding-right:10px;" /></a>
 </p>
 
 <br />
@@ -76,8 +76,9 @@
 
 <h2 align='center'>AZ 900</h2>
 <p align="center">
-   <img alt="az900" src="https://github.com/Loke-60000/Loke-60000/blob/6fe9aa493af089cc6ec563567ccf3bdea26d231c/assets/microsoft-certified-fundamentals-badge.svg" width="100" style="padding-right:10px;" />
+   <a href="https://www.microsoft.com/en-us/learning/exam-AZ-900.aspx" target="_blank"><img alt="az900" src="https://github.com/Loke-60000/Loke-60000/blob/6fe9aa493af089cc6ec563567ccf3bdea26d231c/assets/microsoft-certified-fundamentals-badge.svg" width="100" style="padding-right:10px;" /></a>
 </p>
+
 
 ---
 
