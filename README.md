@@ -74,12 +74,14 @@
 
 ---
 
-<h2 align='center'>AZ 900 - AI 900</h2>
-<p align="center">
-   <a href="https://www.microsoft.com/en-us/learning/exam-AZ-900.aspx" target="_blank"><img alt="az900" src="https://github.com/Loke-60000/Loke-60000/blob/6fe9aa493af089cc6ec563567ccf3bdea26d231c/assets/microsoft-certified-fundamentals-badge.svg" width="100" style="padding-right:10px;" /></a>
+<div align="center">
+   <h2>AZ 900 - AI 900</h2>
+   <p>
+      <a href="https://www.microsoft.com/en-us/learning/exam-AZ-900.aspx" target="_blank"><img alt="az900" src="https://github.com/Loke-60000/Loke-60000/blob/6fe9aa493af089cc6ec563567ccf3bdea26d231c/assets/microsoft-certified-fundamentals-badge.svg" width="100" style="padding-right:10px;" /></a>
+      <a href="https://www.microsoft.com/en-us/learning/exam-AZ-900.aspx" target="_blank"><img alt="az900" src="https://github.com/Loke-60000/Loke-60000/blob/6fe9aa493af089cc6ec563567ccf3bdea26d231c/assets/microsoft-certified-fundamentals-badge.svg" width="100" style="padding-right:10px;" /></a>
+   </p>
+</div>
 
-   <a href="https://www.microsoft.com/en-us/learning/exam-AZ-900.aspx" target="_blank"><img alt="az900" src="https://github.com/Loke-60000/Loke-60000/blob/6fe9aa493af089cc6ec563567ccf3bdea26d231c/assets/microsoft-certified-fundamentals-badge.svg" width="100" style="padding-right:10px;" /></a>
-</p>
 
 
 ---
